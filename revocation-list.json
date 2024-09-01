@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "",
+  "id": "https://raw.githubusercontent.com/OsoRuso/Blockchain/main/revocation-list.json",
   "type": "RevocationList",
-  "issuer": "",
+  "issuer": "https://raw.githubusercontent.com/OsoRuso/Blockchain/main/profile.json",
   "revokedAssertions": []
 }
