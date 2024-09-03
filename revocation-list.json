@@ -3,9 +3,5 @@
   "id": "https://raw.githubusercontent.com/OsoRuso/Blockchain/main/revocation-list.json",
   "type": "RevocationList",
   "issuer": "https://raw.githubusercontent.com/OsoRuso/Blockchain/main/profile.json",
-  "revokedAssertions": [{
-      "id": "urn:uuid:*|CERTUID|*",
-      "revocationReason": "Ya no es valido"
-    }
-  ]
+  "revokedAssertions": []
 }
