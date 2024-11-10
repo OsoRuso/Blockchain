@@ -7,7 +7,7 @@
   "id": "https://raw.githubusercontent.com/OsoRuso/Blockchain/main/profil.json",
   "name": "Certificados Test",
   "url": "https://www.certificados.org",
-  "revocationList": "https://raw.githubusercontent.com/OsoRuso/Blockchain/main/revocation-list.json",
+  "revocationList": "https://raw.githubusercontent.com/OsoRuso/Blockchain/main/revocatio-list.json",
   "publicKey": [
     {
       "id": "ecdsa-koblitz-pubkey:0x3A4Fe9b5718A3Fb6855Ff6063bd148CFFFC21908",
