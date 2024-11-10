@@ -10,7 +10,7 @@
   "revocationList": "https://raw.githubusercontent.com/OsoRuso/Blockchain/main/revocation-list.json",
   "publicKey": [
     {
-      "id": "ecdsa-koblitz-pubkey:0x3A4Fe9b5718A3Fb6855Ff6063bd148CFFFC2190",
+      "id": "ecdsa-koblitz-pubkey:0x3A4Fe9b5718A3Fb6855Ff6063bd148CFFFC21908",
       "created": "2024-09-01T19:46:03.814936+00:00"
     }
   ],
